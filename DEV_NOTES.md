@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-07-01
 - Updated dependencies to latest stable versions
+
+## 2026-07-01
+- Reviewed open issues, added labels
