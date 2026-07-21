@@ -16,3 +16,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-07-01
 - Reorganised test fixtures
 - Verified API endpoint response schema
+
+## 2026-07-22
+- Updated license year
+- Tidied up project structure
