@@ -24,3 +24,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-07-22
 - Added .editorconfig for consistent formatting
 - Tested build on clean environment
+
+## 2026-07-29
+- Updated .gitignore to exclude build artifacts
