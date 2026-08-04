@@ -34,3 +34,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-07-29
 - Addressed feedback from self code review
 - Improved log message formatting
+
+## 2026-08-05
+- Added basic retry logic for network requests
