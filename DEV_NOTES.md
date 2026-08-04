@@ -41,3 +41,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-08-05
 - Fixed off-by-one error in loop
 - Pinned dependency versions for reproducibility
+
+## 2026-08-05
+- Tidied up project structure
