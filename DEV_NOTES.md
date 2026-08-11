@@ -44,3 +44,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-08-05
 - Tidied up project structure
+
+## 2026-08-12
+- Fixed minor edge case in input handling
