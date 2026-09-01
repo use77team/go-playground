@@ -51,3 +51,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-09-02
 - Added basic retry logic for network requests
 - Noted known limitation in docs
+
+## 2026-09-02
+- Updated .gitignore to exclude build artifacts
