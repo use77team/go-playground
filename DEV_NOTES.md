@@ -54,3 +54,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-09-02
 - Updated .gitignore to exclude build artifacts
+
+## 2026-09-23
+- Verified API endpoint response schema
+- Drafted initial implementation plan for v2
+- Added CONTRIBUTING.md stub
