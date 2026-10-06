@@ -70,3 +70,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-10-07
 - Refactored module structure for clarity
+
+## 2026-10-07
+- Reviewed open issues, added labels
