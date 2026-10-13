@@ -78,3 +78,7 @@ Personal development log — notes, findings, and ongoing work.
 - Updated CI cache strategy
 - Refactored module structure for clarity
 - Resolved TODO items from previous session
+
+## 2026-10-14
+- Noted known limitation in docs
+- Fixed off-by-one error in loop
