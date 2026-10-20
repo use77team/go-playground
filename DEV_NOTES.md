@@ -82,3 +82,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-10-14
 - Noted known limitation in docs
 - Fixed off-by-one error in loop
+
+## 2026-10-21
+- Ran linter, applied auto-fixes
