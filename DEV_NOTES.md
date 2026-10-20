@@ -85,3 +85,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-10-21
 - Ran linter, applied auto-fixes
+
+## 2026-10-21
+- Tested build on clean environment
+- Pinned dependency versions for reproducibility
