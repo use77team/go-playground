@@ -93,3 +93,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-10-28
 - Improved error handling in edge cases
 - Documented config options
+
+## 2026-10-28
+- Reorganised test fixtures
+- Verified API endpoint response schema
