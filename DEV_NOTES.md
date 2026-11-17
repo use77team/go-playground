@@ -97,3 +97,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-10-28
 - Reorganised test fixtures
 - Verified API endpoint response schema
+
+## 2026-11-18
+- Pinned dependency versions for reproducibility
+- Added type hints to helper functions
+- Verified compatibility with latest runtime version
