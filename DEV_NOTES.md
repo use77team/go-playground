@@ -109,3 +109,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-11-25
 - Updated CI cache strategy
 - Consolidated duplicate helper functions
+
+## 2026-11-25
+- Tidied up project structure
+- Improved log message formatting
