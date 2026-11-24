@@ -102,3 +102,6 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Added type hints to helper functions
 - Verified compatibility with latest runtime version
+
+## 2026-11-25
+- Added basic retry logic for network requests
