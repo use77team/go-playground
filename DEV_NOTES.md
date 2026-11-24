@@ -105,3 +105,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-11-25
 - Added basic retry logic for network requests
+
+## 2026-11-25
+- Updated CI cache strategy
+- Consolidated duplicate helper functions
